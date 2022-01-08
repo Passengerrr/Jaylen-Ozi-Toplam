@@ -1,1 +1,1 @@
-# Tüm Botların hatlarını düzelter atarım
+# Botların hatasını düzeltir atarım 
