@@ -1,1 +1,1 @@
-# Jaylen-Ozi-Toplam
+# TÜm Botların hatlarını düzelter atarım
